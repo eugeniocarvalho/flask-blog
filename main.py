@@ -1,4 +1,3 @@
-from crypt import methods
 from functools import wraps
 from flask import Flask, render_template, redirect, url_for, flash, abort
 from flask_bootstrap import Bootstrap
